@@ -1,0 +1,10 @@
+img {
+  width: 100%;
+}
+.error {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  color: red;
+  font-size: 30px;
+}

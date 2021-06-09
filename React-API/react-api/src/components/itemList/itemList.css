@@ -1,0 +1,7 @@
+.item-list .list-group-item {
+  cursor: pointer;
+  font-weight: 900;
+}
+#mb-50 {
+  margin-bottom: 50px;
+}

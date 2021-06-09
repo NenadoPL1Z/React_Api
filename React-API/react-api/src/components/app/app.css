@@ -1,0 +1,20 @@
+body {
+  background: url("./got.jpeg") center center no-repeat;
+  background-color: black;
+  background-size: cover;
+  height: 120vh;
+}
+
+.title {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.toggle-button {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.m-150 {
+  margin: 180px 0px 150px;
+}
